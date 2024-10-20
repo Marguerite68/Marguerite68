@@ -1,4 +1,4 @@
-<img align='right' src='https://wiki.sukasuka.cn/images/a/a6/ChthollyHat.png' width='128px'></img>
+<img align='right' src='https://wikisukasuka.cnyimages/thumb/a/a6/ChthollyHat.png/300px-ChthollyHat.png' width='128px'></img>
 
 Just joined GitHub,glad to meet everyone!  
 A beginner in computer science and technology, yet to determine the direction to pursue in the future.
