@@ -1,8 +1,7 @@
-<img align='right' src='https://wikisukasuka.cnyimages/thumb/a/a6/ChthollyHat.png/300px-ChthollyHat.png' width='128px'></img>
+<img align='right' src='https://wiki.sukasuka.cn/images/3/3d/Almaria2.png' width='128px'></img>
 
-Just joined GitHub,glad to meet everyone!  
 A beginner in computer science and technology, yet to determine the direction to pursue in the future.
-Interested in application development for iOS, Android, and Windows platforms.  
-Not very proficient in algorithms.But I am working hard on it!
+
+Interested in mod development for Minecraft.  
 
 ![Marguerite's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marguerite68)
