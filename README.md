@@ -1,4 +1,4 @@
-<img align='right' src='https://wiki.sukasuka.cn/images/3/3d/Almaria2.png' width='128px'></img>
+<img align='right' src='figure/Almaria2.png' width='128px'></img>
 
 A beginner in computer science and technology, yet to determine the direction to pursue in the future.
 
