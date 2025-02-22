@@ -4,4 +4,6 @@ Nice to meet you!  I'm a CS student from China.
 
 Interested in Rust and Python footage programming.  
 
+Arumaria Dufunaa is so adorable isn't it?
+
 ![Marguerite's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marguerite68)
