@@ -2,7 +2,7 @@
 
 Nice to meet you!  I'm a CS student from China.
 
-Interested in Rust and Python footage programming.  
+Interested in Python footage programming.  
 
 Arumaria Dufunaa is so adorable isn't it?
 
