@@ -1,4 +1,4 @@
-<img align='right' src='https://img.remit.ee/i/ftrmMdP3yMqL' width='128px'></img>
+<img align='right' src='https://img.remit.ee/i/ftrmMdP3yMqL' width='220px'></img>
 
 Nice to meet you!  I'm a CS student from China.
 
